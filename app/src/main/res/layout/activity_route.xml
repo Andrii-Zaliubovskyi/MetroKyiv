@@ -1,0 +1,416 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.andrey.metrokyiv.RouteActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Start"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:textSize="16dp" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="36dp"
+        android:text=""
+
+        android:id="@+id/editTextStart" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="End"
+        android:id="@+id/textView2"
+        android:layout_gravity="center_horizontal"
+        android:textSize="16dp" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="36dp"
+        android:text=""
+
+        android:id="@+id/editTextEnd"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Go"
+        android:id="@+id/buttonGo"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Line 1"
+        android:id="@+id/textView3"
+        android:textSize="16dp" />
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="100dp">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Akademmistechko"
+        android:id="@+id/buttonAkademmistechko"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Zhytomyrska"
+        android:id="@+id/buttonZhytomyrska"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Sviatoshyn"
+        android:id="@+id/buttonSviatoshyn"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Nyvky"
+        android:id="@+id/buttonNyvky"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Beresteiska"
+        android:id="@+id/buttonBeresteiska"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Shuliavska"
+        android:id="@+id/buttonShuliavska"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Politekhnichnyi Instytut"
+        android:id="@+id/buttonPolitekhnichnyiInstytut"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Vokzalna"
+        android:id="@+id/Vokzalna"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Universytet"
+        android:id="@+id/buttonUniversytet"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Teatralna"
+        android:id="@+id/buttonTeatralna"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Khreshchatyk"
+        android:id="@+id/buttonKhreshchatyk"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Arsenalna"
+        android:id="@+id/buttonArsenalna"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Dnipro"
+        android:id="@+id/buttonDnipro"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Hydropark"
+        android:id="@+id/buttonHydropark"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Livoberezhna"
+        android:id="@+id/buttonLivoberezhna"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Darnytsia"
+        android:id="@+id/buttonDarnytsia"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Chernihivska"
+        android:id="@+id/buttonChernihivska"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Lisova"
+        android:id="@+id/buttonLisova"
+        android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Line 2"
+        android:id="@+id/textView4"
+        android:textSize="16dp" />
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="100dp">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Heroiv Dnipra"
+                android:id="@+id/buttonHeroivDnipra"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Minska"
+                android:id="@+id/buttonMinska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Obolon"
+                android:id="@+id/buttonObolon"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Petrivka"
+                android:id="@+id/buttonPetrivka"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Tarasa Shevchenka"
+                android:id="@+id/buttonTarasaShevchenka"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Kontraktova Ploshcha"
+                android:id="@+id/buttonKontraktovaPloshcha"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Poshtova Ploshcha"
+                android:id="@+id/buttonPoshtovaPloshcha"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Maidan Nezalezhnosti"
+                android:id="@+id/buttonMaidanNezalezhnosti"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Ploshcha Lva Tolstoho"
+                android:id="@+id/buttonPloshchaLvaTolstoho"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Olimpiiska"
+                android:id="@+id/buttonOlimpiiska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Palats Ukrayina"
+                android:id="@+id/buttonPalatsUkrayina"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Lybidska"
+                android:id="@+id/buttonLybidska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Demiivska"
+                android:id="@+id/buttonDemiivska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Holosiivska"
+                android:id="@+id/buttonHolosiivska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Vasylkivska"
+                android:id="@+id/buttonVasylkivska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Vystavkovyi Tsentr"
+                android:id="@+id/buttonVystavkovyiTsentr"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Ipodrom"
+                android:id="@+id/buttonIpodrom"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Teremky"
+                android:id="@+id/buttonTeremky"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Line 3"
+        android:id="@+id/textView5"
+        android:textSize="16dp" />
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="100dp">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Syrets"
+                android:id="@+id/buttonSyrets"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Dorohozhychi"
+                android:id="@+id/buttonDorohozhychi"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Lukianivska"
+                android:id="@+id/buttonLukianivska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Zoloti Vorota"
+                android:id="@+id/buttonZolotiVorota"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Palats Sportu"
+                android:id="@+id/buttonPalatsSportu"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Klovska"
+                android:id="@+id/buttonKlovskaa"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Pecherska"
+                android:id="@+id/buttonPecherska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Druzhby Narodiv"
+                android:id="@+id/buttonDruzhbyNarodiv"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Vydubychi"
+                android:id="@+id/buttonVydubychi"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Slavutych"
+                android:id="@+id/buttonSlavutych"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Osokorky"
+                android:id="@+id/buttonOsokorky"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Pozniaky"
+                android:id="@+id/buttonPozniaky"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Kharkivska"
+                android:id="@+id/buttonKharkivska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Vyrlytsia"
+                android:id="@+id/buttonVyrlytsia"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Boryspilska"
+                android:id="@+id/buttonBoryspilska"
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Chervony Khutir"
+                android:id="@+id/buttonChervonyKhutir"
+                android:layout_gravity="center_horizontal" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

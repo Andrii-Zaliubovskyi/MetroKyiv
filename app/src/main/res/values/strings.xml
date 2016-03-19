@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MetroKyiv</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_route">RouteActivity</string>
+    <string name="title_activity_scheme">SchemeActivity</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="title_activity_view_image">ViewImage</string>
+    <string name="title_activity_photo_activity1">PhotoActivity1</string>
+    <string name="title_activity_route1">RouteActivity1</string>
+</resources>

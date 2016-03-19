@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-15d1a6ac1b81a7503b4031ae2a0f5511b74ff9d8.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-a76b7f2fd463997095eb33b59b1d943a8e9578f4.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-7dac60b032d851fdfc12c4af2065e844f969079a.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-edbc93d90d792644b27b62f2c5e98cd69d40f233.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-e05af943aa2f88a0330c0e0d227e415d3fb8142d.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-ff36033672862b1e67a206c6e77654a9ff762b0b.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-4c758677414c28a5925576526f9033966690baec.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-7fe21a46c11423acc095643d74b49bd4053c01b8.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-f39087ddee714f7629fc788fc4037f5b56dcdd8c.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-edd219235ad9fb31dbe617352e0d6ca160090c3f.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-8e5a8c4784e0cfd8b7e680e887f35961fc0f3826.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-04089c56f2fec7c1f4766e515106e8bca0863f59.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-2bd2cca20001b547f454cff9653ab2f47d9c6c16.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-cec85a71cf107c3cfe1c382cb433610f9eab07c1.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-b3acad028ddd78aa024f10513b4696dc3be1eb19.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c08b4a22c28cc108159ddf6953bd9609017b054c.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-910e9823419685d935f0f83d2818549828c8aebd.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-ae51b6597c08e2d6012b687f181d1467350cd3c0.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-09add261dd47f91fd39ff2d18a3edc301b679dd0.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-7def862befbb445266f13c4434e519b83b62a330.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-d5650c22b91afffeeab771c88cded4a0ac10b0c2.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-0ca71bf46e9a98819bdf808fa62c2ec8104eca3e.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-2577eef65e6823a98bbfd81f9fde95d954b53262.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-da978517337fa8594b4b54ba6f6a468e21622cab.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-bd14b843202a52bd564566790350a5ba2ca10d09.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-87f5a75e1de9f212162c85b163eaa9811670bbdf.jar" />
+    </item>
+    <item
+        jar="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="D:\Android\startAndroid\MetroKyiv\app\build\intermediates\pre-dexed\debug\classes-be207f35979d8eae34080aae2f7b7ab31e4b7998.jar" />
+    </item>
+
+</items>
